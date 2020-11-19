@@ -1,0 +1,11 @@
+'?-*?' 'NEW' < temp-test/1703.inp.726.3
+'@n' 'eT@aR6@4AoERO"scF)a"dqsE)GaEU$d~$U<<zIU>P>V,&' < input/ruin.1183
+'%@@@^0-9]@**^[^@@]-[0-9][@t][^0-9]@**^[^@@][9-B]-[0-9][^0-9][@t][^0-9]@**^[^@@][9-B]'  < temp-test/1397.inp.600.1
+'@n' '&<N#N4zMu+/?$@,"oa`nt=1CL\!g3y*(k((w\!.4aPc>wSP2w2' < input/ruin.487
+'?[^9-B]$' 'b@t' < temp-test/173.inp.77.6
+'[9-B]* ' '&a@%' < temp-test/31.inp.13.3
+'[9-B][^0-9]' '@%&a' < temp-test/794.inp.342.1
+'[^9-B][^0-9]-?[^0-9]?--' 'a&' < temp-test/1526.inp.654.1
+'[^9-B]' '&@n' < temp-test/640.inp.276.2
+'^a-]@n*' '@%&a' < temp-test/1517.inp.649.3
+'?-[^a-c][0-9]@[[0-9]*[^0-9]*-[^a-c]@n*^[^a-?' '@%&a' < temp-test/143.inp.66.2

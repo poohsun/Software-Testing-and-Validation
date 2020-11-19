@@ -1,0 +1,18 @@
+< inputs/ts663
+< inputs/newtst106.tst
+< inputs/uslin.1369
+inputs/uslin.73
+< inputs/tst8
+< inputs/uslin.888
+< inputs/newtst65.tst
+inputs/uslin.473
+< inputs/uslin.1556
+< inputs/test261
+< inputs/uslin.1497
+< inputs/newtst530.tst
+< inputs/tc387
+inputs/uslin.121
+inputs/uslin.654
+inputs/uslin.1260
+< inputs/uslin.1383
+< inputs/test138

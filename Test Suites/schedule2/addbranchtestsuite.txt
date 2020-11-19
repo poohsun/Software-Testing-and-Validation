@@ -1,0 +1,5 @@
+2 0 2 < input/nnt9
+1  2  7  < input/lu149
+2 1 3 < input/dat486
+10 0 7 < input/ft.25
+3 2 2 < input/dat108

@@ -1,0 +1,15 @@
+5  2  7  < input/lu173
+5 3 2 < input/dat003
+10 9 0 < input/add.305
+0 0 0 < input/tc.235
+1 1 5 < input/dat746
+0 4 4 < input/inp.56
+5 2 4 < input/dat106
+0 0 0 < input/tc.273
+2  2 < input/ft.30
+6  1  10  < input/lu184
+6 9 1 < input/bdt.37
+3 2 1 < input/dat098
+3 1 9 < input/adt.111
+2 5 10 < input/bdt.25
+1  8  5  < input/lu187

@@ -1,0 +1,3 @@
+7 6 0 < input/inp.5
+5  4  3  < input/lu371
+1 4 1 < input/tc.116

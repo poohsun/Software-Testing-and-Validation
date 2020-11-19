@@ -1,0 +1,17 @@
+'*' '%Z}\!' < input/ruin.740
+'[^a-c]a-]' '&@n' < temp-test/211.inp.94.1
+'-?@@*[_-z][^0-9]' '&' < temp-test/822.inp.354.4
+'-' '@%&a' < temp-test/1253.inp.537.4
+'[^-z]?' 'a@n' < temp-test/1246.inp.534.4
+'4501234951234123455123451234123456123512345123455123451234561234123456444412[@@]'  < temp-test/1397.inp.600.1
+'[9-B]@[?[9-B]-[@n][^a-c[0-9]?@@*[0-9]' '&' < temp-test/1525.inp.653.2
+' *^-]-' '@n' < temp-test/956.inp.412.1
+'*' '&-EO<`uTW\}@>' < input/ruin.415
+'v' 'c' < input/ruin.729
+'*@n' 'n&f$BLCD}tiigf@3' < input/ruin.553
+'[9-B]-*@[*? *' '&a@%' < temp-test/1196.inp.514.1
+'%11111@nl[^6]inbetweend@t@n%%88*erwhatjust@t@t@tgvariety%$inthestr&& OK here[@@]' < moni/rr2.t
+'@*?' '@%&a' < temp-test/198.inp.89.1
+'[a-c][^@n]-[^a-c' '@%@&' < temp-test/65.inp.28.2
+'[^Z-a]^_`a]' '#CQ3@U,)/aDf|9p jfjO3Y[H:AI[f|8Wz)' < input/ruin.1475
+'@@' 'y7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp' < input/ruin.1059

@@ -1,0 +1,9 @@
+'-*--' '@t' < temp-test/286.inp.128.1
+'@**-' '@t' < temp-test/1861.inp.789.3
+'[^Z-a]^_`a]' '#CQ3@U,)/aDf|9p jfjO3Y[H:AI[f|8Wz)' < input/ruin.1475
+'c[^9-B][^9-B]c*?[9-B]c-' '&@n' < temp-test/530.inp.230.1
+'@@' 'y7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mpAv6)cN.l7mp' < input/ruin.1059
+'-' '@%&a' < temp-test/1253.inp.537.4
+'*@n' 'n&f$BLCD}tiigf@3' < input/ruin.553
+'[9-B]-*@[*? *' '&a@%' < temp-test/1196.inp.514.1
+'@*?' '@%&a' < temp-test/198.inp.89.1
